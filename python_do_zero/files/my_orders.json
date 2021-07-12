@@ -1,0 +1,17 @@
+{
+  "estabelecimento": "Pastelaria DevOps",
+  "orders": [
+    {
+      "customer": "Mauricio Girardi",
+      "price": 12.5
+    },
+    {
+      "customer": "Josiana Lima Girardi",
+      "price": 32.5
+    },
+    {
+      "customer": "Luana Prado",
+      "price": 65.0
+    }
+  ]
+}
